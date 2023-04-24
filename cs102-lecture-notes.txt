@@ -3,3 +3,9 @@ git clone
 git status
 git commit
 git add
+git log
+
+These are git commands
+
+
+
